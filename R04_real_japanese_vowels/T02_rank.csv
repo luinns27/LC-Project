@@ -1,0 +1,23 @@
+"method","mean_rank"
+"DTW + kFDA",1
+"SFKmL-C(dense) + kNN",3.5
+"DTW + kNN",3.95
+"MFKmL-C + kNN",4.2
+"SFKmL-C(dense) + kFDA",5.1
+"1NN-DTW",6.1
+"SFKmL-C + kNN",6.1
+"SFKmL-C + kFDA",6.45
+"NC-DBA",8.6
+"MFKmL-C + kFDA",10.1
+"DistSpace-Frechet",11.1
+"SFKmL-C + medoid",12.25
+"SFKmL-C(dense) + medoid",12.55
+"DTW + medoid",14.05
+"MFKmL-C + medoid",14.95
+"1NN-DDTW",16.1
+"DTW + SVM",17.6
+"SFKmL-C(gap) + medoid",18.425
+"MFKmL-C + SVM",19.2
+"SFKmL-C + SVM",20
+"SFKmL-C(gaplab) + medoid",20.775
+"SFKmL-C(dense) + SVM",20.9
