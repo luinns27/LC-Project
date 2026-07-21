@@ -1,5 +1,0 @@
-"contrast","diff","t","n_pairs","wins"
-"frechet_sparse - euclid_sparse",0.07375,22.5525653699105,800,463
-"frechet_dense - euclid_dense",0.143125,28.5593553937783,800,602
-"frechet_sparse - frechet_dense",0.0730555555555556,22.3532046817203,800,510
-"euclid_sparse - euclid_dense",0.142430555555555,31.4181461549216,800,608
