@@ -1,0 +1,43 @@
+"method","mean_rank"
+"DTW + kFDA",1
+"1NN-DTW",2.475
+"DTW + kNN",2.525
+"1NN-DDTW",4.35
+"DTW + SVM",5.1
+"SFKmL-C(dense) + kFDA",6.3
+"MFPCA-SVM",8.3
+"SFKmL-C + kNN",9.35
+"SFKmL-C + kFDA",9.4
+"DTW + DBA",10.5
+"NC-DBA",10.5
+"SFKmL-C(dense) + SVM",11.5
+"SFKmL-C(dense) + kNN",11.85
+"DistSpace-bagdist",13.35
+"DistSpace-Frechet",13.6
+"Euclid + kFDA",16.55
+"SFKmL-C + SVM",17.3
+"MFKmL-C + kFDA",17.8
+"MFKmL-C + kNN",18.7
+"Subspace",19.65
+"DD-classifier",20.9
+"MFKmL-C + SVM",23.4
+"1NN-Euclid",23.85
+"Euclid + kNN",23.85
+"SFKmL-C(dense) + medoid",24.6
+"SFKmL-C(dense) + mean",25.95
+"SFKmL-C + medoid",26.45
+"DTW + medoid",28.75
+"SFKmL-C + mean",29.45
+"SFKmL-C(gap) + medoid",31.075
+"MFKmL-C + mean",31.35
+"Euclid + SVM",31.5
+"MFPLS-DA",31.7
+"MFPCA-LDA",33.7
+"MFKmL-C + medoid",34.1
+"SFKmL-C(gaplab) + medoid",35.975
+"Euclid + centroid",37.15
+"KmL3d-C (NC-Euclid)",37.15
+"Euclid + medoid",39.1
+"MaxDepth-MBD",39.9
+"MaxDepth-MBD (w)",41.1
+"MaxDepth-MFHD",41.9
